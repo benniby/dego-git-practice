@@ -1,5 +1,1 @@
-# My First Git Repo
-# dego-git-practice
-# dego-git-practice
-# dego-git-practice
-# dego-git-practice
+Creating during the DEGO Git Lab.
